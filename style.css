@@ -1,0 +1,35 @@
+body{
+    margin: auto;
+    font-family: Verdana, sans-serif;
+    background-color: rgb(240, 181, 162);
+    overflow: hidden;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.lien{
+    height: 60px;
+    background-color: aliceblue;
+    box-shadow: 0 2px 9px rgb(170, 170, 233);
+    display: flex;
+    align-items: center;
+}
+
+a{
+    color: black;
+    margin-right: 10px;
+    text-decoration-line: underline;
+    margin-left: 10px;
+}
+
+p{
+    font-size: 80px;
+    font-weight: 800;
+}
+
